@@ -1,0 +1,22 @@
+.list {
+  background-color: #ddd;
+  margin: 0 auto;
+  padding: 20px 40px;
+  width: 360px;
+}
+.list-detail {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  padding: 10px;
+  background-color: #fff;
+  box-shadow: 0 3px 25px 0 #aaa;
+}
+.list-detail img {
+  width: 30px;
+  height: 30px;
+}
+.list-detail p {
+  font-size: 1.4rem;
+  margin: 0;
+}
